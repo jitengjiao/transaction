@@ -15,7 +15,7 @@ import org.enhydra.jdbc.standard.StandardXADataSource;
 /**
  * @author jmesnil
  * updated tortiz
- *
+ * 分布式事务
  */
 public class DistDatabaseHelper {
 
